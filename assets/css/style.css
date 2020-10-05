@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    padding: 20px 35px;
+    padding: 30px 45px;
     background-color:snow;
     display: flex;
     justify-content: space-between;
@@ -59,10 +59,6 @@ header nav ul li a {
     letter-spacing: 0.1em;
 }
 
-section {
-    
-}
-
 .hero {
     background-image: url("../images/test-image.jpg");
     background-size: 85%;
@@ -86,6 +82,7 @@ section {
 }
 .flex-row {
     display: flex;
+   
 }
 
 .section-title {
@@ -96,12 +93,9 @@ section {
     letter-spacing: 0.1em;
     margin-top: 10px;
     margin-bottom: 10px;
-    padding: 0px 100px 10px 100px;
+    padding: 10px 100px 10px 100px;
+    margin: 0 auto;
     background-color: seagreen;
-}
-
-.bio {
-    text-align: center;
 }
 
 .bio p {
@@ -110,12 +104,12 @@ section {
     font-size: 1.9vw;
     font-style: italic;
     margin: 0 auto;
+    text-align: center;
     background-color: rosybrown;
 }
 
 .portfolio-wrapper {
     display: flex;
-    width: 100%;
     justify-content: space-between;
     background-color: royalblue;
     width: 80%;
@@ -123,32 +117,25 @@ section {
 }
 
 .contact-links {
+    padding: .5vw;
     display: flex;
     justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
     background-color: powderblue;
-    width: 60%;
     margin: 0 auto;
-    
+    width: 80%;
 }
 
-.contact-links ul li {
-    text-decoration: none;
-    margin: 0 auto;
-    display: inline;      
+.contact-links img {
+    max-width: 100%;   
 }
 
 footer {
     background: salmon;
-    padding: 30px 35px;
-    margin-top: 10px;
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
+    padding: 30px 25px 60px 25px;
 }
 
 footer h4 {
-    margin: 0;
-    font-size: 12px;
+    font-size: 14px;
+    font-style: italic;
+    float: right;
 }
