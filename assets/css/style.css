@@ -95,7 +95,7 @@ header nav ul li a {
     margin-bottom: 10px;
     padding: 10px 100px 10px 100px;
     margin: 0 auto;
-    background-color: seagreen;
+    background-color: snow;
 }
 
 .bio p {
@@ -105,13 +105,13 @@ header nav ul li a {
     font-style: italic;
     margin: 0 auto;
     text-align: center;
-    background-color: rosybrown;
+    background-color: snow;
 }
 
 .portfolio-wrapper {
     display: flex;
     justify-content: space-between;
-    background-color: royalblue;
+    background-color: snow;
     width: 80%;
     margin: 0 auto;
 }
@@ -120,7 +120,7 @@ header nav ul li a {
     padding: .5vw;
     display: flex;
     justify-content: center;
-    background-color: powderblue;
+    background-color: snow;
     margin: 0 auto;
     width: 80%;
 }
@@ -130,7 +130,7 @@ header nav ul li a {
 }
 
 footer {
-    background: salmon;
+    background: snow;
     padding: 30px 25px 60px 25px;
 }
 
