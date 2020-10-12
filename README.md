@@ -25,4 +25,4 @@ https://kara-krzystan.github.io
 
 ### Screenshot
 
-![screenshot](/assets/images/Screenshot_portfolio.png)
+![screenshot](https://github.com/kara-krzystan/kara-krzystan.github.io/blob/master/assets/images/Screenshot_portfolio.png)
