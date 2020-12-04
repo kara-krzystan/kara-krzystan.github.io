@@ -1,4 +1,4 @@
-# Advanced CSS: Portfolio Challenge
+# Advanced CSS Challenge: My Developer Portfolio
 
 ## Description
 
