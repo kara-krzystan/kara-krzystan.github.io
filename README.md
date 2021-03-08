@@ -2,9 +2,9 @@
 
 ## Description
 
-For this challenge, I was tasked creating a portfolio for my work, using only HTML and advanced CSS (including flexbox, CSS Grid, media queries, and CSS variables).
+For this challenge, I was tasked creating a portfolio for my web development coursework, using only HTML and advanced CSS (including flexbox, CSS Grid, media queries, and CSS variables).
 
-### Acceptance Criteria
+## Acceptance Criteria
 
 * Portfolio must include:
     * Developer's name
@@ -19,10 +19,13 @@ For this challenge, I was tasked creating a portfolio for my work, using only HT
 
 *Placeholders are acceptable, as this site will be updated as the course progresses*
 
-### Website Link
+## Website Link
 
 https://kara-krzystan.github.io
 
-### Screenshot
+## Screenshot
 
 ![screenshot](https://github.com/kara-krzystan/kara-krzystan.github.io/blob/master/assets/images/Screenshot_portfolio.png)
+
+## Contact
+[Kara Krzystan on GitHub](http://github.com/kara-krzystan)
